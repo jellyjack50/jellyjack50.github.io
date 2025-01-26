@@ -1,0 +1,1 @@
+This is a project for my Twitch Stream. I will be updating this file to include my stream schedule. Life is strange. Schedules change. What better way to adapt than to have an adaptive web project. Also, I don't know what I'm doing. Thanks ily.
